@@ -18,6 +18,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![qr-code](./screenshot.png)
 
+### Links
+
+- Live Site URL: [QR Code Static Page](https://qr-code-static-page.netlify.app)
+
 ## My process
 
 This page doesn't have any functionality, it's just a static page to practice html and css.
